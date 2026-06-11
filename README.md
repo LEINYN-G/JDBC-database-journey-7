@@ -27,7 +27,7 @@ SQL is the standard language for relational database systems.
 
 Structured Query Language, commonly known as SQL, is a standard programming language for relational databases. It helps in storing, manipulating, and retrieving data stored in a relational database.
 
-<img src="Image/sqldb.jpeg" alt="App Screenshot" width="200" height="300">
+<img src="Image/sqlb.jpeg" alt="App Screenshot" width="200" height="300">
 
 Using SQL, you can query, update, and reorganize data, as well as create and modify the schema (structure) of a database system, and control access to its data.
 As we have seen, SQL is the standard language for relational database systems. But, there are different versions of the SQL language.
