@@ -1,8 +1,8 @@
-<img src="Images/jv.jpeg" alt="App Screenshot" width="200" height="300">
+<img src="Image/jv.jpeg" alt="App Screenshot" width="200" height="300">
 
 # JDBC-database
 
-<img src="Images/db.jpeg" alt="App Screenshot" width="200" height="300">
+<img src="Image/db.jpeg" alt="App Screenshot" width="200" height="300">
 
 
 In this section, we will learn more about databases, their types, and how to connect a database to our Java program. We will also dive deep into how to interact and manipulate a database using Java.
@@ -11,7 +11,7 @@ Databases play a major role in the development of an application. As we know, da
 
 We can categorize databases into various categories based on how they store and process data. One of the most common types of database is the Relational database.
 
-<img src="Images/table.jpeg" alt="App Screenshot" width="200" height="300">
+<img src="Image/table.jpeg" alt="App Screenshot" width="200" height="300">
 
 A relational database stores the data in the form of tables. A table is a collection of related data entries where the data is stored in rows and columns. You can visualize it just like a spreadsheet.
 
@@ -23,11 +23,11 @@ Hence, a relational database is often referred to as a Relational Database Manag
 
 SQL is the standard language for relational database systems.
 
-<img src="Images/sql.jpeg" alt="App Screenshot" width="200" height="300">
+<img src="Image/sql.jpeg" alt="App Screenshot" width="200" height="300">
 
 Structured Query Language, commonly known as SQL, is a standard programming language for relational databases. It helps in storing, manipulating, and retrieving data stored in a relational database.
 
-<img src="Images/sqldb.jpeg" alt="App Screenshot" width="200" height="300">
+<img src="Image/sqldb.jpeg" alt="App Screenshot" width="200" height="300">
 
 Using SQL, you can query, update, and reorganize data, as well as create and modify the schema (structure) of a database system, and control access to its data.
 As we have seen, SQL is the standard language for relational database systems. But, there are different versions of the SQL language.
@@ -36,7 +36,7 @@ Some of the examples are MySQL, MS Access, Oracle, Sybase, Informix, Postgres, S
 
 Navigate to the next screen to look at the overview of MySQL.
 
-<img src="Images/mysql.jpeg" alt="App Screenshot" width="200" height="300">
+<img src="Image/mysql.jpeg" alt="App Screenshot" width="200" height="300">
 
 MySQL is a freely available open-source Relational Database Management System (RDBMS) that uses Structured Query Language (SQL). It is one of the best RDBMS being used for developing various web-based software applications.
 
