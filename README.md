@@ -44,3 +44,32 @@ MySQL is compatible with all the major operating systems and works pretty well w
 Once the installation completes, click the Finish button to close the installation wizard. That's it, MySQL will be successfully installed on your local machine.
 
 To check whether the installation is done successfully, search MySQL Command Line Client on the Windows search bar and open it.
+
+<img src="Image/jdbc.jpeg" alt="App Screenshot" width="200" height="300">
+
+With a basic glimpse of SQL and MySQL, let's move ahead and work with database and database connectivity in Java. In Java, JDBC is something that makes this possible. But, what exactly is JDBC?
+
+Developed as an alternative to the C-based ODBC API, JDBC offers a programming-level interface that handles the mechanics of Java applications communicating with a database or RDBMS.
+
+<img src="Image/jdb.jpeg" alt="App Screenshot" width="200" height="300">
+
+The JDBC interface consists of two layers, the JDBC API & the JDBC Driver API.
+
+The JDBC API defines the Java interfaces and classes that programmers use to connect to databases and send queries while a JDBC driver implements these interfaces and classes for a particular DBMS vendor.
+The JDBC API consists of a set of interfaces and classes written in the Java programming language.
+
+Using these standard interfaces and classes, programmers can write applications that connect to databases, send queries written in structured query language (SQL), and process the results.
+
+The following are the different types of drivers available in JDBC which are used by the application based on the scenario and type of application,
+
+1 Type 1 or the JDBC-ODBC Bridge Driver
+
+2 Type 2 or the JDBC-Native API
+
+3 Type 3 or the JDBC-Net pure Java
+
+4 Type 4 or the 100% Pure Java (Thin Driver)
+
+<img src="Image/cont.jpeg" alt="App Screenshot" width="200" height="300">
+
+
