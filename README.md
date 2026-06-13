@@ -70,6 +70,8 @@ The following are the different types of drivers available in JDBC which are use
 
 4 Type 4 or the 100% Pure Java (Thin Driver)
 
-<img src="Image/cont.jpeg" alt="App Screenshot" width="200" height="300">
+<img src="Image/cont.jpeg" alt="App Screenshot" width="200">
+Explore the code file!
 
+<img src="Image/lets.jpeg" alt="App Screenshot" width="200" height="300">
 
