@@ -70,6 +70,13 @@ The following are the different types of drivers available in JDBC which are use
 
 4 Type 4 or the 100% Pure Java (Thin Driver)
 
+<img src="Image/code.jpeg" alt="App Screenshot" width="300" height="300">
+
+
+With all the concepts that we have learned so far, you might have a basic idea of how we can connect a database to our Java application. Having said that, it's time to actually do all that we have talked about from the last few sections and write some code!
+
+In this section, we have a few tasks for you! But, before that, let's quickly guide you through a code example where we will access & retrieve some data from the database.
+
 <img src="Image/cont.jpeg" alt="App Screenshot" width="200">
 Explore the code file!
 
